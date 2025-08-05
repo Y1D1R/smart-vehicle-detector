@@ -8,7 +8,7 @@ This project combines real-time **vehicle detection** using YOLOv12 with intelli
 
 > Below is a quick demo of the system in action:
 
-[![Watch the demo](https://img.youtube.com/vi/QSrCQW-h1BE/0.jpg)](https://youtu.be/QSrCQW-h1BE)
+![Demo](smart_vehicle_detector-demo.gif)
 ---
 
 ## 🚀 Features
